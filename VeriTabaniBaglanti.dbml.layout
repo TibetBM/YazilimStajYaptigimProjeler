@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="VeriTabaniBaglanti">
+  <DataContextMoniker Name="/VeriTabaniBaglantiDataContext" />
+  <nestedChildShapes>
+    <classShape Id="103f362e-358b-4dea-beaa-2bdb81f4ca82" absoluteBounds="5.875, 3.375, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/VeriTabaniBaglantiDataContext/Hurda" />
+      <nestedChildShapes>
+        <elementListCompartment Id="65b1d139-3b06-429d-8069-fec9a5619536" absoluteBounds="5.89, 3.835, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c7f939b6-e77e-4c4b-abc9-6c1649c2fc75" absoluteBounds="2.125, 3.25, 2, 2.5401025390625">
+      <DataClassMoniker Name="/VeriTabaniBaglantiDataContext/Stok" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f510f73e-0b9c-4d87-b425-64a4ef7b92ef" absoluteBounds="2.14, 3.71, 1.9700000000000002, 1.9801025390625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="56aafef3-9067-43a9-9119-42fb36c4d006" absoluteBounds="1.75, 1.25, 2, 1.3862939453125">
+      <DataClassMoniker Name="/VeriTabaniBaglantiDataContext/Login" />
+      <nestedChildShapes>
+        <elementListCompartment Id="feeee124-570c-4723-b3a7-abae11ea6cad" absoluteBounds="1.7650000000000001, 1.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

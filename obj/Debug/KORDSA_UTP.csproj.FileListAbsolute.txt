@@ -1,0 +1,11 @@
+C:\Users\Hp\source\repos\KORDSA_UTP\KORDSA_UTP\obj\Debug\KORDSA_UTP.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\KORDSA_UTP\KORDSA_UTP\obj\Debug\KORDSA_UTP.LoginForm.resources
+C:\Users\Hp\source\repos\KORDSA_UTP\KORDSA_UTP\obj\Debug\KORDSA_UTP.Properties.Resources.resources
+C:\Users\Hp\source\repos\KORDSA_UTP\KORDSA_UTP\obj\Debug\KORDSA_UTP.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\KORDSA_UTP\KORDSA_UTP\obj\Debug\KORDSA_UTP.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\KORDSA_UTP\KORDSA_UTP\bin\Debug\KORDSA_UTP.exe.config
+C:\Users\Hp\source\repos\KORDSA_UTP\KORDSA_UTP\bin\Debug\KORDSA_UTP.exe
+C:\Users\Hp\source\repos\KORDSA_UTP\KORDSA_UTP\bin\Debug\KORDSA_UTP.pdb
+C:\Users\Hp\source\repos\KORDSA_UTP\KORDSA_UTP\obj\Debug\KORDSA_UTP.exe
+C:\Users\Hp\source\repos\KORDSA_UTP\KORDSA_UTP\obj\Debug\KORDSA_UTP.pdb
+C:\Users\Hp\source\repos\KORDSA_UTP\KORDSA_UTP\obj\Debug\KORDSA_UTP.AnaForm.resources
